@@ -1,14 +1,3 @@
-# 🚀 优化升级版（科研级 Tkinter + 高性能 + 更稳定）
-
-"""
-核心优化：
-✔ 真正的线程安全（避免Tkinter崩溃）
-✔ 截图工具完全重写（Canvas绘制）
-✔ UI更流畅（主线程只负责UI）
-✔ 图像处理优化（不污染原图）
-✔ 状态管理规范化
-✔ 识别队列（避免多次点击冲突）
-"""
 
 import tkinter as tk
 from tkinter import filedialog, messagebox, scrolledtext
